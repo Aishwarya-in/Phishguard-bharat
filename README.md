@@ -4,6 +4,8 @@ Regional-Language Phishing Detection
 Submitted for Omnikon National Hackathon 2026 | Problem ID: Omni_CyberTech_1 | Domain: Cybersecurity, Blockchain & Digital Trust
 
 📄 Submission Document
+https://github.com/Aishwarya-in/Phishguard-bharat/blob/main/PhishGuard_Bhasha_Submission-1.pdf
+
 The full project submission (problem understanding, architecture, tech stack, and implementation plan) is available here:
 
 Problem
